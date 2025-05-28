@@ -1,0 +1,22 @@
+{
+  "name": "calcular",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.2.0",
+    "mocha": "^11.1.0"
+  },
+  "dependencies": {
+    "open": "^10.1.1",
+    "selenium-webdriver": "^4.31.0",
+    "uuid": "^11.1.0"
+  }
+}
